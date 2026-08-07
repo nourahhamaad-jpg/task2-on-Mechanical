@@ -9,7 +9,7 @@ In this task, a custom 3D model was designed using **Onshape**. The model featur
 ---
 
 ## 🔗 Onshape Design Link
-[Click here to view the 3D model on Onshape](https://cad.onshape.com/documents/55a93035af7643d63d8fc4e4/w/27c83642e2486866d8eb1925/e/6c244b83bbf3b11b46d0f833)
+[Click here to view the 3D model on Onshape]https://cad.onshape.com/documents/55a93035af7643d63d8fc4e4/w/27c83642e2486866d8eb1925/e/6c244b83bbf3b11b46d0f833?renderMode=0&uiState=6a754cba9e1a4840499c353d)
 
 ---
 
